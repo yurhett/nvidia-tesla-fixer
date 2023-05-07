@@ -1,0 +1,3 @@
+gpu: Tesla
+restart:
+- C:\Program Files\Fan Control\FanControl.exe
